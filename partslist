@@ -1,0 +1,23 @@
+Partlist
+
+Exported from mainboard.brd at 3/30/14 1:31 PM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part      Value            Package        Library             Position (inch)       Orientation
+
+x C1        0.1uF            GRM43D         SparkFun-Capacitors (1 0.3)               R180
+x C2        0.1uF            GRM43D         SparkFun-Capacitors (0.7 0.3)             R0
+x J1        POWER_JACKPTH    POWER_JACK_PTH SparkFun-Connectors (0.2 0)               R0
+x JAVR      AVR_SPI_PRG_6PTH 2X3            SparkFun-Connectors (0.25 0.75)           R90
+x JP2       M10LOCK          1X10_LOCK      SparkFun-Connectors (1.25 1.15)           R270
+x JPDISPLAY                  JST-3-PTH      SparkFun-Connectors (0.25 1.3)            R0
+x JPSPEAKER M02JST-PTH-2     JST-2-PTH      SparkFun-Connectors (0.6 1.3)             R0
+x JPTIMER   M02JST-PTH-2     JST-2-PTH      SparkFun-Connectors (0.9 1.3)             R0
+x JPTOGGLE  M02JST-PTH-2     JST-2-PTH      SparkFun-Connectors (1.2 1.3)             R0
+x JSERIAL                    1X06           SparkFun-Connectors (0.6 0.1)             R0
+S(330) R1        100              0603-RES       SparkFun-Passives   (0.55 1.15)           R270
+x R2        10k              0603-RES       SparkFun-Passives   (0.25 1.15)           R90
+x U1        ATMEGA328P       TQFP32-08      SparkFun-DigitalIC  (0.75 0.75)           R270
